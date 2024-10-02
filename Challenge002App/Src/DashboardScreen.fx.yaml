@@ -533,7 +533,6 @@ DashboardScreen As screen:
 
     Button4 As button:
         Text: ="Git Button"
-        X: =0
         Y: =290
         ZIndex: =20
 
