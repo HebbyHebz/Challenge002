@@ -536,4 +536,5 @@ DashboardScreen As screen:
         X: =0
         Y: =290
         ZIndex: =20
+        Fill: Red
 
