@@ -532,8 +532,11 @@ DashboardScreen As screen:
         ZIndex: =19
 
     Button4 As button:
-        Fill: =Red
         Text: ="Git Button"
         Y: =290
         ZIndex: =20
+<<<<<<< HEAD
+        Fill: =RGBA(255, 0, 0, 1)
+=======
+>>>>>>> 54e12d939912cda04f3b8bedb0248a50739f7fb1
 
