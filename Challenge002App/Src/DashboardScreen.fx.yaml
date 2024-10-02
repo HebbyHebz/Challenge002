@@ -532,6 +532,7 @@ DashboardScreen As screen:
         ZIndex: =19
 
     Button4 As button:
+        Fill: =Red
         Text: ="Git Button"
         Y: =290
         ZIndex: =20
